@@ -11,6 +11,11 @@ function App() {
         <p>
           Pero tranqui, ¡nosotros sí hicimos la app!
         </p>
+        <img
+          src="https://media.tenor.com/0voATfwCl2sAAAAM/jack-daniels-jd.gif" 
+          alt="Cerveza animada"
+          style={{ width: '200px', marginTop: '20px' }}
+        />
         <a
           className="App-link"
           href="https://reactjs.org" 
